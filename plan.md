@@ -7,7 +7,7 @@
                          │
                          ▼
               ┌────────────────────┐
-              │ 1. MIDSPOT         │
+              │ 1. AQCT-1          │
               │ reverse engineering│
               └──────────┬─────────┘
                          │
@@ -67,9 +67,10 @@
               └────────────────────┘
 ```
 
-## M0 — MIDSPOT Reverse Engineering
+## M0 — AQCT-1 Reverse Engineering
 
 Determine the exact electrical interface of the Skylight MIDSPOT V25, including power requirements, connector pinout, dimming method, voltage levels, frequency, and timing. Use an oscilloscope and/or logic analyzer to observe the original controller and document the interface. The result should be a verified specification that can be safely implemented by the ESP32.
+Dimming method is to be reverse-engineerd using the AQCT-1 skylight-compatible dimmer (15 euro)
 
 ## M1 — ESP32 MIDSPOT Control
 
