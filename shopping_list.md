@@ -1,5 +1,9 @@
 # ESP32 / MIDSPOT Prototype — Shopping List
 
+## Dimmer for reverse-engineering and temp solution
+- [ ] **Skylight AQCT-1 Color Temperature controller**
+  - [azaqua.nl](https://www.azaqua.nl/en/skylight/skylight-aqct-1-color-temperature-controller)
+
 ## Development board
 - [ ] **ESP32-S3-DevKitC-1-N8R8**
   - ESP32-S3
